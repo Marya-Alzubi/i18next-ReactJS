@@ -8,7 +8,7 @@ npm install react-i18next i18next --save
 ````
 
 ### English
-[Screenshot from 2023-01-05 21-39-28](https://user-images.githubusercontent.com/71829413/210856979-5e60d937-5539-4fe9-aabf-22c168bef835.png)
+![Screenshot from 2023-01-05 21-39-28](https://user-images.githubusercontent.com/71829413/210859248-86f87caf-bc70-4acc-b30d-15cee6c30822.png)
 ### french
 ![Screenshot from 2023-01-05 21-39-37](https://user-images.githubusercontent.com/71829413/210856998-63ac9342-f9b2-4214-ae68-0578fdb08266.png)
 ### spanish
